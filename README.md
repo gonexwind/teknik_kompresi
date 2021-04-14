@@ -10,6 +10,5 @@
 
 <p float="left">
   <img src="screenshot/home.png" width="25%" />
-  <img src="screenshot/income.png" width="25%" />
-  <img src="screenshot/outcome.png" width="25%" />
+  <img src="screenshot/result.png" width="25%" />
 </p>
